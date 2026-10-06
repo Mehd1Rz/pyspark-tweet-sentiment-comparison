@@ -1,0 +1,8 @@
+# data (download from Kaggle, don't commit)
+data/
+*.csv
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store

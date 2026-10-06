@@ -1,0 +1,6 @@
+pyspark
+spacy
+nltk
+tensorflow
+numpy
+pandas
